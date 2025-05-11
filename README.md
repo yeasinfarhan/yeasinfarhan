@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **yeasinfarhan009@gmail.com**
 
-- ⚡ Fun fact **I think I am a quick learner when someone guide me !!!**
+- ⚡ Fun fact *** I am afraid  of studies!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/artistic_lens99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="artistic_lens99" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yeasi_farhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="artistic_lens99" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
